@@ -1,5 +1,6 @@
 {
   "name": "socket-chat",
+  "description": "http://socket.io/get-started/chat/"
   "version": "0.0.0",
   "private": true,
   "scripts": {
